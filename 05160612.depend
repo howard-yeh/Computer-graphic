@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1525016179 source:c:\users\asus\desktop\05160612\main.cpp
+	"glm.h"
+
+1426320928 d:\google雲端硬碟\大學\電腦圖學\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 d:\google雲端硬碟\大學\電腦圖學\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+924330300 source:c:\users\asus\desktop\05160612\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\asus\desktop\05160612\glm.h
+	<GL/glut.h>
+
+924330300 source:c:\users\asus\desktop\電腦圖學\05160612\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\asus\desktop\電腦圖學\05160612\glm.h
+	<GL/glut.h>
+
+1528603813 source:c:\users\asus\desktop\電腦圖學\05160612\main.cpp
+	"glm.h"
+	<GL/glut.h>
+	<stdio.h>
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1426320928 c:\users\asus\desktop\電腦圖學\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\asus\desktop\電腦圖學\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1528288597 c:\users\asus\desktop\電腦圖學\05160612\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
